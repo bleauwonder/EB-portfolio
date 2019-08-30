@@ -23,6 +23,7 @@
     "gatsby-plugin-netlify": "^2.1.6",
     "gatsby-plugin-offline": "^2.2.7",
     "gatsby-plugin-sitemap": "^2.2.7",
+    "netlify-cli": "^2.13.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
   },
